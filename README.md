@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EbenMauck
+- 👀 I’m interested in programming and game making.
+- 🌱 I’m currently learning computer science.
+- 💞️ I’m looking to collaborate on game projects.
+- ⚡ Fun fact: 57 is divisible by 19. Do with that information what you will.
